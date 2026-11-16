@@ -4,9 +4,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #121212;
-    color: #ffffff;
-    font-family: system-ui, sans-serif;
+    background-color: #f0f4f8;
+    color: #222;
+    font-family: Arial, sans-serif;
 }
 .card {
     padding: 2rem 3rem;
